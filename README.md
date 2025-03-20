@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning, Data Analytics and full-stack development projects.**
 
-- 💬 Ask me about **Data analysis, Machine Learning, Power BI, Python, and backend development with NestJS.**
+- 💬 Ask me about **Data analysis, Machine Learning, Data Analytics , and backend development with NestJS.**
 
 - 📫 How to reach me **sarthakdeshmukh158@gmail.com**
 
