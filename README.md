@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Integrating an e-commerce website with a backend, enabling product addition to the database and performing CRUD operations using NestJS and MongoDB.**
 
-- 🌱 I’m currently learning **TypeScript, NestJS to strengthen my backend development skills, along with Hadoop for big data processing**
+- 🌱 I’m currently learning **Spring and Spring Boot to strengthen my backend development skills, along with Hadoop for big data processing**
 
 - 👯 I’m looking to collaborate on **Machine learning, Data Analytics and full-stack development projects.**
 
